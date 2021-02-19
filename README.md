@@ -1,0 +1,2 @@
+# ubuntu
+Auto installer vps
