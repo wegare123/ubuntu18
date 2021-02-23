@@ -6,3 +6,6 @@
 2. Auto kill multilogin openssh, dropbear, shadowsocks, shadowsockr, vmess, trojan
 3. Auto clear log
 <br>
+Jika berminat silahkan hubungi kontak dibawah:
+<br>
+Telegram +6282318259593
