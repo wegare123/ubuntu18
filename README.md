@@ -6,5 +6,3 @@
 2. Auto kill multilogin openssh, dropbear, shadowsocks, shadowsockr, vmess, trojan
 3. Auto clear log
 <br>
-apt install wget curl -y && wget -O install.sh "https://www.dropbox.com/s/3pnnjvyqyfhjsum/install-ubuntu.sh" && chmod +x install.sh && ./install.sh
-
