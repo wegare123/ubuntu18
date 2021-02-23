@@ -3,7 +3,6 @@
 <br>
 **Service lainnya:**
 1. Auto hapus akun expired semua layanan
-2. Auto kill multi login openssh, dropbear, shadowsocks, shadowsockr, vmess, trojan
-<br>
+2. Auto kill multilogin openssh, dropbear, shadowsocks, shadowsockr, vmess, trojan
 apt install wget curl -y && wget -O install.sh "https://www.dropbox.com/s/3pnnjvyqyfhjsum/install-ubuntu.sh" && chmod +x install.sh && ./install.sh
 
