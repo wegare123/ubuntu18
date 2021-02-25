@@ -1,4 +1,4 @@
-# ubuntu
+# ubuntu18-20
 ![IMG_20210219_163359](https://user-images.githubusercontent.com/56117745/108486286-81b7c300-72d0-11eb-8ffb-42bfdb8276fa.jpg)
 <br>
 **Service lainnya:**
