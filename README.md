@@ -3,7 +3,7 @@
 <br>
 **Service lainnya:**
 1. Auto hapus akun expired semua layanan
-2. Auto kill multilogin openssh, dropbear, shadowsocks, shadowsockr, vmess, trojan
+2. Auto kill multilogin openssh, dropbear, shadowsocks, shadowsockr, vmess, trojan, vless
 3. Auto clear log
 <br>
 Jika berminat silahkan hubungi kontak dibawah:
