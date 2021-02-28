@@ -1,5 +1,5 @@
 # ubuntu18-20
-![IMG_20210227_092451](https://user-images.githubusercontent.com/56117745/109372926-b8986500-78de-11eb-8ba5-157a01048358.jpg)
+![IMG_20210228_193730](https://user-images.githubusercontent.com/56117745/109419171-c2b18500-79fe-11eb-933e-6d44a5e18df2.jpg)
 <br>
 **Service lainnya:**
 1. Auto hapus akun expired semua layanan
