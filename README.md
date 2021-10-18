@@ -1,7 +1,7 @@
 # ubuntu18
-![IMG_20210923_171340](https://user-images.githubusercontent.com/56117745/134492918-fe2bd9d0-5d0e-4bee-9a9e-1dadba1465ac.jpg)
+![IMG_20211018_140514](https://user-images.githubusercontent.com/56117745/137684505-111ca002-19cd-4973-8e90-8c17a7d4f6a2.jpg)
 <br>
-![IMG_20210805_155432](https://user-images.githubusercontent.com/56117745/128322639-9ecac94a-0e44-4059-80d8-b5b73ec99d38.jpg)
+![IMG_20211018_140823](https://user-images.githubusercontent.com/56117745/137684523-d21a3d53-003b-4f9c-86b6-47ff67d8a0c4.jpg)
 <br>
 **Service lainnya:**
 1. Auto hapus akun expired semua layanan
