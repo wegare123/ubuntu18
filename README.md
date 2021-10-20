@@ -1,5 +1,5 @@
 # ubuntu18
-![IMG_20211018_140514](https://user-images.githubusercontent.com/56117745/137684505-111ca002-19cd-4973-8e90-8c17a7d4f6a2.jpg)
+![IMG_20211020_123045](https://user-images.githubusercontent.com/56117745/138033702-dc2cdbcd-7d71-446d-b06c-4cb48aa37f22.jpg)
 <br>
 ![IMG_20211018_140823](https://user-images.githubusercontent.com/56117745/137684523-d21a3d53-003b-4f9c-86b6-47ff67d8a0c4.jpg)
 <br>
