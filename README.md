@@ -5,7 +5,7 @@
 <br>
 ![IMG_20211226_131145](https://user-images.githubusercontent.com/56117745/147520158-949136f3-1f6a-4579-aa57-0508e15e60d5.jpg)
 ![Screenshot_2021-12-26-13-10-13-624_com android chrome](https://user-images.githubusercontent.com/56117745/147520169-3a36458d-28ae-4e2a-a525-0ceb5755981d.jpg)
-**Free Panel:**
+# Free Panel
 1. Order script premi minimal 5.
 **Service lainnya:**
 1. Auto hapus akun expired semua layanan
