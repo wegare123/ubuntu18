@@ -3,9 +3,11 @@
 <br>
 ![IMG_20211018_140823](https://user-images.githubusercontent.com/56117745/137684523-d21a3d53-003b-4f9c-86b6-47ff67d8a0c4.jpg)
 <br>
+![IMG_20211226_131145](https://user-images.githubusercontent.com/56117745/147520158-949136f3-1f6a-4579-aa57-0508e15e60d5.jpg)
+![Screenshot_2021-12-26-13-10-13-624_com android chrome](https://user-images.githubusercontent.com/56117745/147520169-3a36458d-28ae-4e2a-a525-0ceb5755981d.jpg)
 **Service lainnya:**
 1. Auto hapus akun expired semua layanan
-2. Auto kill multilogin openssh, dropbear, shadowsocks, shadowsockr, vmess, trojan, vless, vless2
+2. Auto kill multilogin semua layanan
 3. Auto clear log
 <br>
 Jika berminat silahkan hubungi kontak dibawah:
