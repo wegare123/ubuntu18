@@ -3,8 +3,8 @@
 <br>
 ![IMG_20211018_140823](https://user-images.githubusercontent.com/56117745/137684523-d21a3d53-003b-4f9c-86b6-47ff67d8a0c4.jpg)
 <br>
-![IMG_20211226_131145](https://user-images.githubusercontent.com/56117745/147520158-949136f3-1f6a-4579-aa57-0508e15e60d5.jpg)
-![Screenshot_2021-12-26-13-10-13-624_com android chrome](https://user-images.githubusercontent.com/56117745/147520169-3a36458d-28ae-4e2a-a525-0ceb5755981d.jpg)
+![IMG_20220113_012911](https://user-images.githubusercontent.com/56117745/149201424-cbcb4cdc-fbe0-4f5b-8f6b-65424c425bf0.jpg)
+![IMG_20220113_012815](https://user-images.githubusercontent.com/56117745/149201456-bff23357-c46a-4213-9c64-994b64cfb1ff.jpg)
 # Free Panel & Update script
 1. Order script premi minimal 5.
 # Service lainnya
